@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+body{
+    width:100%;
+}
+article a{
+    border: 2px solid blue; font-family: sans-serif; color: #000000; background-color: transparent;
+}
+/* section a{
+    border:3px solid black; border-radius: 20px; font-family: sans-serif; color: #000000; background-color: transparent;
+} */
+span.btncolor{
+     color: white;
+}
+p.tosetcolor{
+    color: white;
+}
+
+div.navtagcolor li a{
+    color: white;
+    text-decoration: none;
+}
+img.makecenter{
+    padding-left: 150px;
+}
+img#jk{
+    
+ clip-path: circle();
+}
+
+div.nb{
+    list-style:none;
+    
+   
+}
+div.nb li a{
+    color: white;
+    
+    
+}
+
+div.nb li{
+    display: inline;
+  
+}    
+div.content{
+    padding-left: 100px;
+    background-color:  rgb(245, 245, 245);
+    font-size: 30px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+   
+   
+
+}
+img{
+    background-size: cover;
+    
+}
+div.mcontent{
+    background-color:rgb(245, 245, 245);
+    letter-spacing: 3px;
+    font-size: 20px;
+    text-transform: lowercase;
+
+}
+div.makecenter{
+    padding-left: 350px;
+}
+img.jkjk{
+    clip-path: circle();
+}
+
+img.couple{
+    width: 500px;
+   
+    mix-blend-mode: multiply;
+}
+div.midpad
+{
+    padding-left: 190px;
+}
+div.midpad1
+{
+    padding-left: 50px;
+    padding-right: 150px;
+}
+div.midpad1 p.fcolor{
+    font-size: 30px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: black;
+    font-weight: 20px;
+    line-height: 50px;
+    letter-spacing: 2px;
+    text-align: left;
+}
+section.mid{
+    padding-top: 60px;
+}
+section.para{
+    padding-top: 150px;
+    
+}
+section.para p{
+    padding-left:220px;
+    font-size: 25px;
+}
+/* article,section.mid,section.para{
+    padding-left: 150px;
+} */
+div.wordedit{
+    color: black;
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    overflow-x: hidden;
+}
+footer li{
+    list-style: none;
+}
+
+div.editimg{
+    height: 500px;
+}
+
+div.paracolor p a{
+    text-decoration: none ; 
+    color: rgb(19, 19, 19);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#paracolor p a{
+    text-decoration: none ; 
+    color: rgb(19, 19, 19);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+div.colorchange h6,p{
+    text-decoration: none ; 
+    color: rgb(19, 19, 19);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+div.linkedit li a{
+    justify-content: space-between;
+}
+
+div.mmjk li a:hover {
+    color: blue;
+}
+
+div.spaceedit li a i{
+    color: white;
+    padding-right:  21px;
+}
+
+@media screen and(max-width:766px) {
+    .navbutton{
+        display: block;
+    }
+}
